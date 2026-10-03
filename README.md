@@ -1,4 +1,6 @@
 # SentinelAI — AI-Powered Public Safety & Police Tactical Command Platform
+https://sentinal-ai-topaz.vercel.app/
+
 
 SentinelAI is a next-generation decision intelligence platform built for public safety, citizen hazard reporting, real-time spatial telemetry visualization, and police tactical command dispatching.
 
